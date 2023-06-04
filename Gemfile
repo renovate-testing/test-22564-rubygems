@@ -1,2 +1,2 @@
 source "https://rubygems.org"
-gem "faker", "3.1.0"
+gem "faker", "3.2.0"
